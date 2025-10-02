@@ -68,4 +68,4 @@ TCP: 1500 | UDP: 8900 | Errors: 5 | Duration: 30s
 
 ## Legal Notice
 
-For authorized testing only. Unauthorized use is illegal.
+For authorized testing only. usage of this script is illegal.
